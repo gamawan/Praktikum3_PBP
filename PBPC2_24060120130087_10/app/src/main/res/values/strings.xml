@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Comes with USB to GBA SP charge cable. Console has been fully repaired and given a new plastic housing, the screen and speaker have also been upgraded. In excellent like-new condition. The console comes with USB to GBA SP charge cable. Fully tested and working, brightness button controls levels of brightness for the IPS backlit screen. Full repairs include replacement battery contact terminal, replacement speaker, backlit screen upgrade, and housing replacement. Runs Gameboy Advance, Gameboy Color, and Gameboy games with no issue.</string>
+    <string name="stock"> 1 Stock Available</string>
+    <string name="specification">Specification</string>
+    <string name="seller">Seller Information:</string>
+    <string name="my_name">Fajar Ivano Gamawan</string>
+    <string name="buy">Buy</string>
+    <string name="dummy_value">$150.00</string>
+    <string name="dummy_photos">3 photos</string>
+    <string name="call_center">Call Seller</string>
+    <string name="content_specs_condition">Open Box</string>
+    <string name="condition">Condition</string>
+    <string name="model">Model</string>
+    <string name="content_model">Nintendo Game Boy Advance SP</string>
+    <string name="type">Type</string>
+    <string name="content_type">Handheld System</string>
+    <string name="region">Region Code</string>
+    <string name="content_region">NTSC-U/C (US/Canada)</string>
+    <string name="platform">Platform</string>
+    <string name="content_platform">Nintendo Game Boy Advance</string>
+    <string name="color">Color</string>
+    <string name="content_color">Blue</string>
+    <string name="manufacture">Region of Manufacture</string>
+    <string name="content_manufacture">Japan</string>
+    <string name="product_bought" />
+    <string name="product_sold">produk telah berhasil dibeli</string>
+    <string name="gambar_centang">gambar centang</string>
+</resources>
