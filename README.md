@@ -1,2 +1,4 @@
-# Praktikum_PBP
-# jangan lupa nama file benerin
+Praktikum PBP 
+Fajar Ivano Gamawan
+24060120130087
+
